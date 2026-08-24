@@ -1,0 +1,11 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Temporary code runner files
+tempCodeRunnerFile*
+
+# IDE & Editor folders
+.vscode/
+.idea/
