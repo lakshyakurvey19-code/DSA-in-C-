@@ -1,24 +1,16 @@
-﻿#include <iostream>
+#include <iostream>
 #include <bitset>
 using namespace std;
 
-// Function to calculate one's complement
-int onesComplement(int num) {
-    return ~num;  // Flip bits
-}
-
 int main() {
-    int num;
-    cout << "Enter an integer: ";
-    cin >> num;
+    int num = 5;
+    cout << "Original number: " << num 
+         << " -> " << bitset<8>(num) << endl;
 
-    cout << "Original (decimal): " << num << endl;
-    cout << "Original (binary):  " << bitset<8>(num) << endl;
-
-    int result = onesComplement(num);
-
-    cout << "One's Complement (decimal): " << result << endl;
-    cout << "One's Complement (binary):  " << bitset<8>(result) << endl;
+    int onesComplement = ~num; // bitwise NOT
+    cout << "One's complement: " << onesComplement 
+         << " -> " << bitset<8>(onesComplement) << endl;
 
     return 0;
 }
+ 
