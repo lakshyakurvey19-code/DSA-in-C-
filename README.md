@@ -1,140 +1,56 @@
-# DSA in C++
+# DSA-in-C++
 
-A collection of my **Data Structures and Algorithms (DSA) programs in C++**, created while learning and practicing problem-solving concepts.
+My Data Structures and Algorithms learning and problem-solving journey in C++.
 
-This repository contains programs ranging from basic C++ concepts to pointers, arrays, binary number systems, bitwise operations, and upcoming data structures and algorithms.
+## DSA in C++
 
----
+Welcome to my DSA repository.
 
-## 📚 Topics Covered
+This repository contains my C++ programs, DSA practice, problem-solving exercises, and concepts that I learn while improving my programming skills.
 
-### 1. Basics
-Basic C++ programming concepts and syntax.
+## Topics Covered
 
-- Input / Output
-- Variables and Data Types
-- Operators
-- Type Conversion
-- Basic Programs
-
-### 2. Conditions
-Programs based on decision-making statements.
-
-- `if`
-- `if-else`
-- Nested `if-else`
-- `else-if`
-- `switch`
-- Conditional problems
-
-### 3. Loops
-Practice programs using loops.
-
-- `for` loop
-- `while` loop
-- `do-while` loop
-- Nested loops
-- Number-based problems
-
-### 4. Patterns
-Pattern printing programs for improving logic and understanding nested loops.
-
-- Star patterns
-- Number patterns
-- Character patterns
-- Pyramid patterns
-- Inverted patterns
-
-### 5. Functions
-Programs based on functions and modular programming.
-
-- Function declaration
-- Function definition
-- Function parameters
-- Return values
-- Call by value
-- Call by reference
-- Recursive functions
-
-### 6. Arrays
-Programs for understanding and manipulating arrays.
-
-- Array input and output
-- Traversal
+- C++ Basics
+- Conditional Statements
+- Loops
+- Patterns
+- Functions
+- Arrays
+- Pointers
+- Binary Number System
+- Bitwise Operators
+- Strings
+- Recursion
 - Searching
-- Finding maximum and minimum
-- Array operations
-- Basic array problems
+- Sorting
+- Linked List
+- Stack
+- Queue
+- Trees
+- Graphs
+- Data Structures & Algorithms
 
-### 7. Pointers
-Programs for understanding pointers and memory concepts.
+## Goal
 
-- Pointer basics
-- Address and dereference operators
-- Pointer arithmetic
-- Pointers with arrays
-- Pointers with functions
-- Call by reference using pointers
+- Improve problem-solving skills
+- Build strong DSA fundamentals
+- Practice C++ regularly
+- Understand concepts through implementation
+- Maintain a well-organized DSA repository
+- Prepare for coding interviews and technical rounds
 
-### 8. Binary Number System
-Programs related to binary and decimal number systems.
+## Learning Approach
 
-- Decimal to Binary
-- Binary to Decimal
-- Binary operations
-- Number representation
+I am following a step-by-step approach:
 
-### 9. Bitwise Operators
-Programs using bit-level operations.
+**Learn → Understand → Implement → Practice → Improve**
 
-- AND `&`
-- OR `|`
-- XOR `^`
-- NOT `~`
-- Left Shift `<<`
-- Right Shift `>>`
-- Power of 2
-- Bit manipulation problems
+I will continue adding new concepts and problems as I progress through my DSA journey.
 
 ---
 
-## 🚀 DSA Roadmap
+### Author
 
-The repository will gradually cover the following topics:
+**Lakshya Kurvey**
 
-```text
-C++ Fundamentals
-       ↓
-Functions
-       ↓
-Arrays
-       ↓
-Pointers
-       ↓
-Strings
-       ↓
-Recursion
-       ↓
-Time & Space Complexity
-       ↓
-Searching & Sorting
-       ↓
-Linked List
-       ↓
-Stack
-       ↓
-Queue
-       ↓
-Trees
-       ↓
-Binary Search Tree
-       ↓
-Heap
-       ↓
-Hashing
-       ↓
-Graphs
-       ↓
-Greedy Algorithms
-       ↓
-Dynamic Programming
+B.Tech Information Technology Student
